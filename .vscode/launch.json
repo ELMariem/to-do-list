@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open todo.html",
-           "file": "c:\\Users\\hp\\Desktop\\To do\\todo.html"
+           "file": "c:\\Users\\hp\\Desktop\\To_do\\todo.html"
         }
     ]
 }
